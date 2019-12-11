@@ -22,12 +22,71 @@ var firstIndustryList = [
         selected:false,
     },{
         name:"机器视觉",
-        selected:true,
+        selected:false,
     },{
         name:"机器视觉",
         selected:false,
     }
-]
+];
+var secondIndustryList = [
+    {
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    }
+];
+var thirdIndustryList = [
+    {
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    },{
+        name:"机器视觉",
+        selected:false,
+    }
+];
 
-
-export {firstIndustryList};
+export {firstIndustryList, secondIndustryList, thirdIndustryList};
